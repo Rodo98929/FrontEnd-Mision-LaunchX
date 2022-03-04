@@ -1,4 +1,4 @@
-# Ejerccios
+# Ejercicios
 
 1. [Requerimiento](https://github.com/Rodo98929/FrontEnd-Mision-LaunchX/blob/3de96f10178160e2232505d9fae5076363e44045/01%20-%20INTRO/Practicas/1.%20Requerimiento%20-%20Abogadot.pdf)
 2. [Buyer Persona](https://github.com/Rodo98929/FrontEnd-Mision-LaunchX/blob/3de96f10178160e2232505d9fae5076363e44045/01%20-%20INTRO/Practicas/2.%20Buyer%20Persona.pdf)
