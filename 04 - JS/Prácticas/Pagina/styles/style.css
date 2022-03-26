@@ -1,0 +1,167 @@
+.div-one{
+    background-color: #BD0F33;
+    padding: 20px;
+    border-radius: 40px;
+}
+
+.btn-cyan{
+    border-radius: 30px;
+    padding: 25px;
+    background-color: aqua;
+    border: 1px solid black;
+    width: 25px;
+    box-shadow: -1px 2px 5px white;
+}
+
+.btn-red{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: red;
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    margin-left: 8px;
+    box-shadow: -1px 2px 5px white;
+}
+
+.btn-green{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: green;
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    margin-left: 8px;
+    box-shadow: -1px 2px 5px white;
+}
+
+.btn-yellow{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: yellow;
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    margin-left: 8px;
+    box-shadow: -1px 2px 5px white;
+}
+
+.btn-blue{
+    border-radius: 30px;
+    padding: 20px;
+    background-color: #519AFB;
+    border: 1px solid black;
+    width: 25px;
+    box-shadow: -1px 2px 5px white;
+}
+
+.btn-greenyellow{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: #2FF901;
+    border: 1px solid black;
+    width: 90px;
+    height: 10px;
+    margin-left: 8px;
+    box-shadow: -1px 2px 5px white;
+}
+
+.btn-yellow-2{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: #FFCC02;
+    border: 1px solid black;
+    width: 90px;
+    height: 10px;
+    margin-left: 8px;
+    box-shadow: -1px 2px 5px white;
+}
+
+.btns{
+    list-style-type: none;
+}
+
+.btns li{
+    display: inline;
+}
+
+.input-pokemon{
+    border-radius:20px;
+    background-color:#FFCC02;
+    border:2px solid white;
+    padding-left: 20px;
+    color: white;
+    height: 60px;
+}
+
+.input-pokemon::placeholder{
+    color: white;
+}
+
+.input-pokemon:focus{
+    border-radius:20px !important;
+    background-color:#FFCC02 !important;
+    border:2px solid white !important;
+    padding-left: 20px;
+    color: white;
+    outline:none !important;
+}
+
+.btn-enviar{
+    border-radius: 30px;
+    padding: 18px;
+    border: 1px solid black;
+    width: 8px;
+    height: 8px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-image: linear-gradient(to right, #D31027 0%, #EA384D  51%, #D31027  100%);
+    box-shadow: -1px 2px 5px black;
+}
+
+.div-deco{
+    border-radius: 20px;
+    border: 2px solid black; 
+    width:400px; 
+    height:400px;
+    background-color: gray;
+    padding:22px;
+}
+
+.div-info{
+    border-radius: 20px;
+    border: 2px solid black;
+    background-color: white;
+    width:350px; 
+    height:350px;
+}
+
+.center{
+    display:block;
+    margin:auto
+}
+
+.top-margin{
+    margin-top:20px;
+}
+
+.upper-text{
+    text-transform: uppercase;
+}
+
+.border-div{
+    border-radius: 80px 300px 80px 80px;
+}
+
+.border-div-2{
+    border-radius: 50px 100px;
+}
+
+.green-div{
+    margin-top: 50px;
+    background-color: green; 
+    width: 350px; 
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
